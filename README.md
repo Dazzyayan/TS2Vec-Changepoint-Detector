@@ -1,1 +1,1 @@
-# mlds-TS2Vec-Changepoint-Detector
+# TS2Vec-Changepoint-Detector
